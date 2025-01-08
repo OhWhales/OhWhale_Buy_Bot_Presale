@@ -11,7 +11,7 @@ The bot is part of **[Oh Whale](https://ohwhale.io)**, a project dedicated to pr
 ## Key Features
 - Monitors **Binance Smart Chain (BSC)** and **Ethereum** networks for token purchases.
 - Sends detailed notifications to a **Telegram bot** with purchase details.
-- Includes a special congratulawqtory message for users who purchase a substantial amount of tokens (e.g., 71,428 tokens or more).
+- Includes a special congratulatory message for users who purchase a substantial amount of tokens (e.g., 71,428 tokens or more).
 - Displays clickable links to the **OhWhale website** and **whitepaper**.
 - Uses **Alchemy WebSocket** for real-time transaction monitoring.
 
@@ -48,7 +48,22 @@ The bot is part of **[Oh Whale](https://ohwhale.io)**, a project dedicated to pr
    ```
 
 ---
+### Hosting and Costs
 
+The **OhWhale Presale Buy Bot** can be easily hosted on the **PythonAnywhere** platform, which offers a **$5/month** plan that is more than sufficient to run this script efficiently. This makes the bot accessible to users on a budget.
+
+- **PythonAnywhere** (5$ plan):
+  - Ideal for running small Python scripts like this bot.
+  - Perfect for maintaining WebSocket connections and running continuous monitoring on Ethereum and BSC networks.
+  - **Monthly cost**: **$5 (plus VAT)** – Total: **$6.50/month** including VAT.
+
+Additionally, the bot utilizes **Alchemy**'s **free-tier WebSocket plan**, which provides enough capacity for moderate usage. Alchemy offers free access to WebSocket URLs for Ethereum and BSC networks, which is sufficient for the OhWhale Presale Buy Bot.
+
+- **Alchemy** (Free-tier plan):
+  - Free access to WebSocket URLs for Ethereum and Binance Smart Chain (BSC).
+  - Provides sufficient usage for tracking and receiving real-time events without incurring additional costs.
+
+---
 ## Mission of Oh Whale
 
 At **OhWhale.io**, we are dedicated to preserving the oceans and protecting marine life, including whales, by leveraging blockchain technology. We not only aim to contribute to the physical preservation of our oceans but also to create a **digital ocean** in the blockchain space, where sustainability, community, and technology converge.
