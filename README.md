@@ -4,7 +4,7 @@
 ## Overview
 The OhWhale Presale Bot is designed to monitor token purchases on both Binance Smart Chain (BSC) and Ethereum networks. The bot listens for new transactions and sends notifications to a Telegram group chat with details about the purchase. It also congratulates users who make substantial token purchases by rewarding them with Early Supporter NFT allocations.
 
-The bot is part of **[Oh Whale](https://ohwhale.io)**, a project dedicated to protecting both the real oceans and digital ones through blockchain technology.
+The bot is part of **[Oh Whale](https://ohwhale.io)**, a project dedicated to protecting the real oceans and contribute to the digital ones through blockchain technology.
 
 ---
 
