@@ -64,9 +64,9 @@ Additionally, the bot utilizes **Alchemy**'s **free-tier WebSocket plan**, which
   - Provides sufficient usage for tracking and receiving real-time events without incurring additional costs.
 
 ---
-## Mission of Oh Whale
+## Mission of Oh Whale 🐋
 
-At **OhWhale.io**, we are dedicated to preserving the oceans and protecting marine life, including whales, by leveraging blockchain technology. We not only aim to contribute to the physical preservation of our oceans but also to create a **digital ocean** in the blockchain space, where sustainability, community, and technology converge.
+At **[Oh Whale](https://ohwhale.io)**, we are dedicated to preserving the oceans and protecting marine life, including whales, by leveraging blockchain technology. We not only aim to contribute to the physical preservation of our oceans but also to create a **digital ocean** in the blockchain space, where sustainability, community, and technology converge.
 
 By supporting **OhWhale.io**, you are helping make a difference in both the real and digital worlds.
 
