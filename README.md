@@ -11,7 +11,7 @@ The bot is part of **[Oh Whale](https://ohwhale.io)**, a project dedicated to pr
 ## Key Features
 - Monitors **Binance Smart Chain (BSC)** and **Ethereum** networks for token purchases.
 - Sends detailed notifications to a **Telegram bot** with purchase details.
-- Includes a special congratulatory message for users who purchase a substantial amount of tokens (e.g., 71,428 tokens or more).
+- Includes a special congratulawqtory message for users who purchase a substantial amount of tokens (e.g., 71,428 tokens or more).
 - Displays clickable links to the **OhWhale website** and **whitepaper**.
 - Uses **Alchemy WebSocket** for real-time transaction monitoring.
 
